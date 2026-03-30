@@ -77,14 +77,6 @@ Previously at **Samsung SDS** (Seoul, Korea) for 14 years — worked on large-sc
 
 ---
 
-## 📊 GitHub Stats
-
-![Juhyun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juhyun-Yoo0710&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhyun-Yoo0710&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juhyun%20Yoo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/juhyun-yoo0710)
